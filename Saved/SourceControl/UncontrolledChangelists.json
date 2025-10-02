@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/LVL_Proto.umap",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Input/IMC_TwinStick.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Input/Actions/IA_Reload.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickGameMode.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/FX/NS_TopDownAction_Destruction.uasset"
+			]
+		}
+	]
+}
