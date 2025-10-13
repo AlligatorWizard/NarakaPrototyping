@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/marpi/Documents/ISART/MGP1/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"C:/Users/marpi/Documents/ISART/MGP1/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectileWithPhysics.uasset",
+				"C:/Users/marpi/Documents/ISART/MGP1/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/M_ProjectilePhysics.uasset",
 				"C:/Users/eliot/source/repos/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectileWithPhysics.uasset",
 				"C:/Users/eliot/source/repos/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
 				"D:/Unity/AIPlannification/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.uasset",
