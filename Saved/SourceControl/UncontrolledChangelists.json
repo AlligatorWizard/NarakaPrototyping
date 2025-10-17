@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/NarakaPrototyping/Content/Variant_TwinStick/LVL_Blockout.umap",
+				"D:/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/AI/ST_TwinStickNPC.uasset",
+				"D:/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/AI/STTask_GetPlayer.uasset",
 				"C:/Games/Projet PFE/NarakaPrototyping/Content/Variant_TwinStick/LVL_Blockout.umap",
 				"C:/Games/Projet PFE/NarakaPrototyping/Content/Variant_TwinStick/LVL_Proto.umap",
 				"C:/Games/Projet PFE/NarakaPrototyping/Content/Variant_TwinStick/_GENERATED/samgu/Box_04F88D65.uasset",
