@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_RebecaProjectile.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/UI/WBP_ProjectilePhysics.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/UI/WBP_ProjectilePhysicsValues.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/E_PhysicsModes.uasset",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/LVL_Proto.umap",
+				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickGameMode.uasset",
 				"C:/Users/marpi/Documents/ISART/MGP1/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
 				"C:/Users/marpi/Documents/ISART/MGP1/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectileWithPhysics.uasset",
 				"C:/Users/marpi/Documents/ISART/MGP1/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/M_ProjectilePhysics.uasset",
@@ -19,8 +26,7 @@
 				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Input/Actions/IA_Reload.uasset",
 				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.uasset",
 				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickGameMode.uasset",
-				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/FX/NS_TopDownAction_Destruction.uasset",
-				"C:/Users/rebec/Documents/ISART/MGDP1/Test/NarakaPrototyping/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset"
+				"C:/Users/rebec/Documents/ISART/MGDP1/Unreal/NakaraPrototyping/Content/Variant_TwinStick/FX/NS_TopDownAction_Destruction.uasset"
 			]
 		}
 	]
